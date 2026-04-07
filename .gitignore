@@ -1,0 +1,17 @@
+# Node ignores
+node_modules/
+dist/
+
+# Java/Maven ignores
+target/
+*.jar
+*.war
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
